@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.27657616, g: 0.4964769, b: 0.47952795, a: 1}
+  m_IndirectSpecularColor: {r: 0.252064, g: 0.45423222, b: 0.47812575, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1310,7 +1310,7 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 0
+  m_UseGravity: 1
   m_IsKinematic: 1
   m_Interpolate: 0
   m_Constraints: 0
@@ -1431,8 +1431,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _rock: {fileID: 2036038820}
-  _angle: 46.1
-  _power: 6.5
+  _angle: 31.2
+  _power: 9
 --- !u!4 &2055557199
 Transform:
   m_ObjectHideFlags: 0
